@@ -28,8 +28,8 @@ sections:
       - products/plant4.md
   - type: promotion_section
     section_id: promotion_section
-    title: Livraison Gratuite!
-    subtitle: Livraison offerte pour toute commande de 49.99€
+    title: Livraison Offerte !
+    subtitle: Livraison gratuite pour toute commande de 49.99€
     image: images/nemanja-peric-r2hCdzR5SfU-unsplash.jpg
     background_image: images/leaf.svg
     cta:
