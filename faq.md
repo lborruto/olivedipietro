@@ -52,7 +52,7 @@ sections:
   - type: contact_section
     image: images/emre-RuqOeMvPlzQ-unsplash.jpg
     section_id: contact_section
-    address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
+    address: Reggio di Calabria - Italia
     phone: +336-71-37-75-05
     email: >-
       <a href = "mailto:
