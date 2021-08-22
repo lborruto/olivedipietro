@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '19.99'
+price: '39.99'
 title: Capocollo de Calabre
 description: 'Capocollo de Calabre, 950g'
 default_thumbnail_image: images/plant3.jpg
