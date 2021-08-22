@@ -2,8 +2,8 @@
 layout: product
 id: '2'
 price: '49.99'
-title: Huile d'Olive de Calabre (3L)
-description: 'Bouteille d''Huile d''Olive de Calabre, format 3L'
+title: Pane Duro
+description: 'Le véritable Pane Cotto di Calabria - 250g'
 default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
 default_original_image: images/roberta-sorge-uOBApnN_K7w-unsplash-b7971092.jpg
 featured: true
