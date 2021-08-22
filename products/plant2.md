@@ -6,7 +6,7 @@ title: Pane Duro
 description: Le véritable Pane Cotto di Calabria - 250g
 default_thumbnail_image: images/friselle-1280x920.jpg
 default_original_image: images/friselle-1280x920-a437b8e4.jpg
-featured: false
+featured: true
 order: 1
 category: category/pains.md
 seo:
