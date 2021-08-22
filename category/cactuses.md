@@ -1,5 +1,5 @@
 ---
-title: Charuterie
+title: Charuteries
 layout: category
 order: 2
 seo:
