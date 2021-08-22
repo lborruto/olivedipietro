@@ -14,7 +14,7 @@
     "main_menu": [
         {
             "title": "Accueil",
-            "url": "#",
+            "url": "/",
             "style": "primary",
             "arrow": false,
             "type": "action"
