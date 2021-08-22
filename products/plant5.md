@@ -3,9 +3,7 @@ layout: product
 id: '5'
 price: '220.00'
 title: Nduja de Calabre
-description: >-
-  Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
+description: 'Capocollo de Calabre, 950g'
 default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
