@@ -8,7 +8,7 @@ default_thumbnail_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spiling
 default_original_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-13900658.jpg
 featured: true
 order: 5
-category: category/bigplants.md
+category: category/cactuses.md
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
