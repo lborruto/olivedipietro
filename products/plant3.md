@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '19.99'
 title: Nduja de Calabre
 description: 'Nduja de Calabre, 250g'
 default_thumbnail_image: images/plant3.jpg
