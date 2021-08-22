@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '29.99'
 title: Huile d'Olive de Calabre
 description: 'Bouteille d''Huile d''Olive de Calabre, format 1L'
 default_thumbnail_image: images/plant1.jpg
