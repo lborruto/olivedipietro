@@ -17,12 +17,8 @@ sections:
           description love italia
         image: images/carmen-laezza-xhq9Ln_Lmrg-unsplash.jpg
       - title: Nous pensons à vous
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: |
+          description on aime le client 
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
