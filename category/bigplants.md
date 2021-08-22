@@ -3,7 +3,7 @@ title: Huiles
 layout: category
 order: 1
 seo:
-  title: Big plants
+  title: Huiles
   description: This is the store page
   extra:
     - name: 'og:type'
