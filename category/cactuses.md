@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Charuterie
 layout: category
 order: 2
 seo:
