@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '39.99'
+price: '49.99'
 title: Huile d'Olive de Calabre (3L)
 description: 'Bouteille d''Huile d''Olive de Calabre, format 3L'
 default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
