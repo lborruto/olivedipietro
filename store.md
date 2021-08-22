@@ -6,7 +6,7 @@ sections:
     section_id: store_section
   - type: promotion_section
     section_id: promotion_section
-    title: Livraison Gratuite!
+    title: Livraison Offerte !
     subtitle: from $149.99
     image: images/nemanja-peric-r2hCdzR5SfU-unsplash-c50bed97.jpg
     background_image: /images/leaf.svg
