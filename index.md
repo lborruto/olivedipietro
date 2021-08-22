@@ -12,7 +12,7 @@ sections:
 
       Découvrez nos produits frais et 100% naturels, tout droit venus de Calabre
     actions:
-      - title: Touts Nos Produits
+      - title: Tous Nos Produits
         url: /store
         arrow: true
         style: primary
