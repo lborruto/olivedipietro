@@ -1,6 +1,6 @@
 ---
 layout: product
-id: '2'
+id: '4'
 price: '39.99'
 title: Huile d'Olive de Calabre (3L)
 description: 'Bouteille d''Huile d''Olive de Calabre, format 3L'
