@@ -1,7 +1,7 @@
 ---
 title: Autre
 layout: category
-order: 4
+order: 3
 seo:
   title: Autre
   description: This is the store page
