@@ -8,7 +8,7 @@ default_thumbnail_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spiling
 default_original_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-1e182bc3.jpg
 featured: true
 order: 1
-category: category/huiles.md
+category: category/charcuteries.md
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
