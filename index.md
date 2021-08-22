@@ -33,7 +33,7 @@ sections:
     image: images/nemanja-peric-r2hCdzR5SfU-unsplash.jpg
     background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: Découvrir
       url: /store
       style: secondary
       arrow: true
