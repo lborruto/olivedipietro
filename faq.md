@@ -53,7 +53,7 @@ sections:
     image: images/emre-RuqOeMvPlzQ-unsplash.jpg
     section_id: contact_section
     address: Reggio di Calabria - Italia
-    phone: +336-71-37-75-05
+    phone: +33671377505
     email: >-
       <a href = "mailto:
       contact@olivedipietro.com">contact@olivedipietro.com</a>
