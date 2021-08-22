@@ -1,5 +1,5 @@
 ---
-title: Charuteries
+title: Huiles
 layout: category
 order: 1
 seo:
