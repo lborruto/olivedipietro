@@ -4,7 +4,7 @@ id: '3'
 price: '39.99'
 title: Capocollo de Calabre
 description: 'Le véritable Capocollo DOP, 100% naturel'
-default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
+default_thumbnail_image: images/edi-libedinsky-Wp3qbHlw1mI-unsplash-83a60b7c.jpg
 default_original_image: images/roberta-sorge-uOBApnN_K7w-unsplash-b7971092.jpg
 featured: true
 order: 1
