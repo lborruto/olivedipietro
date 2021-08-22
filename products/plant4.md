@@ -4,7 +4,7 @@ id: '4'
 price: '39.99'
 title: Nduja Calabraise
 description: 'Nduja piquante DOP, 100% naturelle'
-default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
+default_thumbnail_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-5a030bab.jpg
 default_original_image: images/roberta-sorge-uOBApnN_K7w-unsplash-b7971092.jpg
 featured: true
 order: 1
