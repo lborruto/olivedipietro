@@ -19,7 +19,7 @@ sections:
       - title: Nous pensons à vous
         description: |
           description on aime le client 
-        image: images/razvan-horhat-xZ4Tm_TPwIQ-unsplash.jpg
+        image: images/marialaura-gionfriddo-II3Vo7MJ9Z0-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
