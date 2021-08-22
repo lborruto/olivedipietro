@@ -10,9 +10,9 @@ sections:
     icon: true
     featured_products:
       - products/plant1.md
+      - products/plant2.md
       - products/plant3.md
-      - products/plant5.md
-      - products/plant7.md
+      - products/plant4.md
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
