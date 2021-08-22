@@ -8,11 +8,11 @@ sections:
     background_image: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
     background_image_opacity: 65
     content: >
-      # Découvrez des produits authentiques et frais,
+      # Des Produits Authentiques
 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Découvrez nos produits frais et 100% naturels, tout droit venus de la
+      Calabre
     actions:
       - title: Voir Touts Les Produits
         url: /store
