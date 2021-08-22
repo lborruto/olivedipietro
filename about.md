@@ -22,6 +22,8 @@ sections:
         image: images/marialaura-gionfriddo-II3Vo7MJ9Z0-unsplash.jpg
       - type: contact_section
     image: images/emre-RuqOeMvPlzQ-unsplash.jpg
+  - type: contact_section
+    image: images/emre-RuqOeMvPlzQ-unsplash.jpg
     section_id: contact_section
     address: Reggio di Calabria - Italia
     phone: +33671377505
