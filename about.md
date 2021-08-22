@@ -16,7 +16,7 @@ sections:
         description: |
           description love italia
         image: images/carmen-laezza-xhq9Ln_Lmrg-unsplash.jpg
-      - title: We think plants are the future
+      - title: Nous pensons à vous
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
