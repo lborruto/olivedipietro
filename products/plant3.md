@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '39.99'
-title: Huile d'Olive de Calabre (3L)
+title: Capocollo de Calabre
 description: 'Bouteille d''Huile d''Olive de Calabre, format 3L'
 default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
 default_original_image: images/roberta-sorge-uOBApnN_K7w-unsplash-b7971092.jpg
