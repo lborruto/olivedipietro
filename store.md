@@ -15,6 +15,19 @@ sections:
       url: /store
       style: secondary
       arrow: true
+
+
+       - type: promotion_section
+    section_id: promotion_section
+    title: Livraison Gratuite!
+    subtitle: Livraison offerte pour toute commande de 49.99€
+    image: images/nemanja-peric-r2hCdzR5SfU-unsplash.jpg
+    background_image: images/leaf.svg
+    cta:
+      title: Découvrir
+      url: /store
+      style: secondary
+      arrow: true
 seo:
   title: Store
   description: This is the store page
