@@ -19,7 +19,7 @@ sections:
       - title: Nous pensons à vous
         description: |
           description on aime le client 
-        image: images/carmen-laezza-xhq9Ln_Lmrg-unsplash-ea14767a.jpg
+        image: images/razvan-horhat-xZ4Tm_TPwIQ-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
