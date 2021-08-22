@@ -7,7 +7,7 @@ description: 'Bouteille d''Huile d''Olive de Calabre, format 3L'
 default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
 default_original_image: images/roberta-sorge-uOBApnN_K7w-unsplash-b7971092.jpg
 featured: true
-order: 2
+order: 1
 category: category/huiles.md
 seo:
   title: Nulla suscipit
