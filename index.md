@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
     background_image_opacity: 65
-    content: >
-      # Des Produits Authentiques
+    content: |
+      # Les Olives de Pierre
 
-
-      Découvrez nos produits frais et 100% naturels, tout droit venus de la
-      Calabre
+      Découvrez nos produits frais et 100% naturels, tout droit venus de Calabre
     actions:
       - title: Voir Touts Les Produits
         url: /store
