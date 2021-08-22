@@ -29,7 +29,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Livraison Gratuite!
-    subtitle: from $149.99
+    subtitle: Livraison Offerte pour toute commande de 49.99€
     image: images/nemanja-peric-r2hCdzR5SfU-unsplash.jpg
     background_image: images/leaf.svg
     cta:
