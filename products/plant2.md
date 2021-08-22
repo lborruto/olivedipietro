@@ -8,7 +8,7 @@ default_thumbnail_image: images/friselle-1280x920.jpg
 default_original_image: images/friselle-1280x920-a437b8e4.jpg
 featured: true
 order: 1
-category: category/huiles.md
+category: category/pains.md
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
