@@ -1,9 +1,9 @@
 ---
-title: Autre
+title: Pains
 layout: category
 order: 3
 seo:
-  title: Autre
+  title: Pains
   description: This is the store page
   extra:
     - name: 'og:type'
