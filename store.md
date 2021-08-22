@@ -8,7 +8,7 @@ sections:
     section_id: promotion_section
     title: Livraison Offerte !
     subtitle: Livraison gratuite pour toute commande de 49.99€
-    image: images/nemanja-peric-r2hCdzR5SfU-unsplash-c50bed97.jpg
+    image: images/gianluca-carenza-Xjw8sopx_8k-unsplash-fcf54aa6.jpg
     background_image: /images/leaf.svg
     cta:
       title: Découvrir
