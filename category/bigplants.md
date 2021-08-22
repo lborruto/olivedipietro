@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Huiles
 layout: category
 order: 1
 seo:
