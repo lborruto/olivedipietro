@@ -1,5 +1,5 @@
 ---
-title: Huiles
+title: Charcuteries
 layout: category
 order: 1
 seo:
