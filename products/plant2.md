@@ -3,8 +3,8 @@ layout: product
 id: '2'
 price: '9.99'
 title: Pane Duro
-description: 'Le véritable Pane Cotto di Calabria - 250g'
-default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
+description: Le véritable Pane Cotto di Calabria - 250g
+default_thumbnail_image: images/friselle-1280x920.jpg
 default_original_image: images/roberta-sorge-uOBApnN_K7w-unsplash-b7971092.jpg
 featured: true
 order: 1
