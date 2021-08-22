@@ -28,7 +28,7 @@ sections:
       - products/plant4.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Livraison Gratuite!
     subtitle: from $149.99
     image: images/nemanja-peric-r2hCdzR5SfU-unsplash.jpg
     background_image: images/leaf.svg
