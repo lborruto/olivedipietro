@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '5'
-price: '220.00'
+price: '19.99'
 title: Nduja de Calabre
 description: 'Capocollo de Calabre, 250g'
 default_thumbnail_image: images/plant5.jpg
