@@ -55,7 +55,7 @@ layout: body
         {% assign category_is_not_empty = page.category | is_not_empty %}
         {% if category_is_not_empty %}
             <section class="content__row">
-                <h2 class="content__row-title">Related</h2>
+                <h2 class="content__row-title">Produits Similaires</h2>
                 {% assign product_pages = '/products' | get_pages | sort: 'order' | where_exp: "item", "item.id != page.id" %}
                 {% assign category_page = page.category | get_page_by_file_path %}
 
