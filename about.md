@@ -15,7 +15,7 @@ sections:
       - title: Nous aimons l'Italie
         description: |
           description love italia
-        image: images/nan_talk.jpg
+        image: images/carmen-laezza-xhq9Ln_Lmrg-unsplash.jpg
       - title: We think plants are the future
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
