@@ -5,7 +5,7 @@ price: '19.99'
 title: Nduja de Calabre
 description: 'Capocollo de Calabre, 250g'
 default_thumbnail_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga.jpg
-default_original_image: images/plant5-lg.jpg
+default_original_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-13900658.jpg
 featured: true
 order: 5
 category: category/bigplants.md
