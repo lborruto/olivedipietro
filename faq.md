@@ -54,7 +54,7 @@ sections:
     section_id: contact_section
     address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +336-71-37-75-05
-    email: '<a href = "mailto: abc@example.com">Send Email</a>'
+    email: '<a href = "mailto: contact@olivedipietro.com">Send Email</a>'
     mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
   title: FAQ
