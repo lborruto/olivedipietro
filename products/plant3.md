@@ -3,7 +3,7 @@ layout: product
 id: '3'
 price: '150.00'
 title: Nduja de Calabre
-description: 'Nulla non pretium metus, vitae finibus lectus.'
+description: 'Nduja de Calabre, 250g'
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
