@@ -1,5 +1,5 @@
 ---
-title: Pains
+title: Autre
 layout: category
 order: 4
 seo:
