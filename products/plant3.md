@@ -7,7 +7,7 @@ description: 'Le véritable Capocollo DOP, 100% naturel'
 default_thumbnail_image: images/edi-libedinsky-Wp3qbHlw1mI-unsplash-83a60b7c.jpg
 default_original_image: images/edi-libedinsky-Wp3qbHlw1mI-unsplash-e38b56dc.jpg
 featured: true
-order: 1
+order: 3
 category: category/charcuteries.md
 seo:
   title: Nulla suscipit
