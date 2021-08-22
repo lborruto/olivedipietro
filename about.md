@@ -12,7 +12,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: Nous aimons l'Italie
+      - title: Nous Aimons l'Italie
         description: |
           description love italia
         image: images/carmen-laezza-xhq9Ln_Lmrg-unsplash.jpg
