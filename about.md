@@ -20,6 +20,15 @@ sections:
         description: |
           description on aime le client 
         image: images/marialaura-gionfriddo-II3Vo7MJ9Z0-unsplash.jpg
+      - type: contact_section
+    image: images/emre-RuqOeMvPlzQ-unsplash.jpg
+    section_id: contact_section
+    address: Reggio di Calabria - Italia
+    phone: +33671377505
+    email: >-
+      <a href = "mailto:
+      contact@olivedipietro.com">contact@olivedipietro.com</a>
+    mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
   title: About
   description: This is the about page
