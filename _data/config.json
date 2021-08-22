@@ -13,16 +13,16 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Produits",
-            "url": "/store",
-            "style": "link"
-        },
-        {
             "title": "lorem-ipsum",
             "url": "#",
             "style": "primary",
             "arrow": false,
             "type": "action"
+        },
+        {
+            "title": "Produits",
+            "url": "/store",
+            "style": "link"
         },
         {
             "title": "Qui est Pietro?",
