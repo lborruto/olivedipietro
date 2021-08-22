@@ -3,7 +3,7 @@ title: Autre
 layout: category
 order: 4
 seo:
-  title: Summer plants
+  title: Autre
   description: This is the store page
   extra:
     - name: 'og:type'
