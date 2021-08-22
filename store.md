@@ -8,7 +8,7 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $149.99
-    image: images/promo.jpg
+    image: images/nemanja-peric-r2hCdzR5SfU-unsplash-c50bed97.jpg
     background_image: /images/leaf.svg
     cta:
       title: Discover
