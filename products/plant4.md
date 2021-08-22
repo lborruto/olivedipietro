@@ -3,7 +3,7 @@ layout: product
 id: '4'
 price: '39.99'
 title: Nduja Calabraise
-description: 'Bouteille d''Huile d''Olive de Calabre, format 3L'
+description: 'Nduja piquante DOP, 100% naturelle'
 default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash.jpg
 default_original_image: images/roberta-sorge-uOBApnN_K7w-unsplash-b7971092.jpg
 featured: true
