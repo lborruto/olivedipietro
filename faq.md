@@ -55,7 +55,7 @@ sections:
     address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +336-71-37-75-05
     email: contact@olivedipietro.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
   title: FAQ
   description: This is the faq page
