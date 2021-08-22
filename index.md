@@ -23,9 +23,9 @@ sections:
     light_title: true
     featured_products:
       - products/plant1.md
+      - products/plant2.md
       - products/plant3.md
-      - products/plant5.md
-      - products/plant7.md
+      - products/plant4.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
