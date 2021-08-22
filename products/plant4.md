@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '4'
-price: '39.99'
+price: '29.99'
 title: Nduja Calabraise
 description: 'Nduja piquante DOP, 100% naturelle - 950G'
 default_thumbnail_image: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-5a030bab.jpg
