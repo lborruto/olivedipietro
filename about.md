@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: Nous sommes Pierre.
+    headline: Nous Sommes Pierre.
     subtitle: |
       description.
   - type: bulletpoints_section
