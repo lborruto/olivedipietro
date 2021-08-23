@@ -20,7 +20,7 @@ seo:
       value: Capocollo de Calabre - Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Le véritable Capocollo DOP, 100% naturel'
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Capocollo de Calabre - Olive di Pietro
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Le véritable Capocollo DOP, 100% naturel'
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
