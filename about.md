@@ -53,7 +53,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: Qui sommes-nous? - Olive di Pietro
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
