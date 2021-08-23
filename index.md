@@ -59,7 +59,7 @@ seo:
     - name: 'twitter:title'
       value: Olive di Pietro
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: Boutique de produits Calabrais 100% naturels
     - name: 'twitter:image'
       value: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
       relativeUrl: true
