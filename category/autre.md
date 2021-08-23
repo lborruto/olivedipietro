@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Summer plants
+      value: Autre - Olive di Pietro
       keyName: property
     - name: 'og:description'
       value: This is the store page
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Summer plants
+      value: Autre - Olive di Pietro
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
