@@ -16,7 +16,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Store
+  title: Nos Produits
   description: This is the store page
   extra:
     - name: 'og:type'
