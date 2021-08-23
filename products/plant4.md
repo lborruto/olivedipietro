@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/charcuteries.md
 seo:
-  title: Nduja Calabraise
+  title: Nduja Calabraise - Olive di Pietro
   description: 'Nduja piquante DOP, 100% naturelle - 950G'
   extra:
     - name: 'og:type'
