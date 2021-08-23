@@ -11,7 +11,7 @@ order: 1
 category: category/charcuteries.md
 seo:
   title: Nduja Calabraise
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: 'Nduja piquante DOP, 100% naturelle - 950G'
   extra:
     - name: 'og:type'
       value: website
