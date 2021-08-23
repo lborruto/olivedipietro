@@ -51,7 +51,7 @@ seo:
       value: Boutique de produits Calabrais 100% naturels
       keyName: property
     - name: 'og:image'
-      value: images/logo (1)-ca6530f5.png
+      value: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
