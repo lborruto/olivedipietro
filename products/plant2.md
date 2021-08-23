@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/pains.md
 seo:
-  title: Nulla suscipit
+  title: Pane Duro
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
