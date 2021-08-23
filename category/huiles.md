@@ -16,7 +16,7 @@ seo:
       value: Nos huiles d'olives Calabraise - Olive di Pietro
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/roberta-sorge-uOBApnN_K7w-unsplash (1)-35a384d6.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:description'
       value: Nos huiles d'olives Calabraise - Olive di Pietro
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/roberta-sorge-uOBApnN_K7w-unsplash (1)-35a384d6.jpg
       relativeUrl: true
 ---
