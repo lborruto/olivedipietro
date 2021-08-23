@@ -32,7 +32,7 @@ sections:
       contact@olivedipietro.com">contact@olivedipietro.com</a>
     mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
-  title: About
+  title: A Propos
   description: Qui sommes nous? Olive di Pietro
   extra:
     - name: 'og:type'
