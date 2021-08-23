@@ -20,7 +20,7 @@ seo:
       value: Huile d'Olive de Calabre - Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Bouteille d''Huile d''Olive de Calabre, format 1L'
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Huile d'Olive de Calabre - Olive di Pietro
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Bouteille d''Huile d''Olive de Calabre, format 1L'
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
