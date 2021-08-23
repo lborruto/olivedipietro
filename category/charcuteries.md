@@ -13,7 +13,7 @@ seo:
       value: Charcuteries - Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Les charcuteries Calabraise - Olive di Pietro
       keyName: property
     - name: 'og:image'
       value: images/plant2-lg.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Charcuteries - Olive di Pietro
     - name: 'twitter:description'
-      value: This is the store page
+      value: Les charcuteries Calabraise - Olive di Pietro
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
