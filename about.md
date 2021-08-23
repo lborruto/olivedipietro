@@ -33,7 +33,7 @@ sections:
     mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
   title: About
-  description: This is the about page
+  description: Qui sommes nous? Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
