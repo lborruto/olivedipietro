@@ -13,7 +13,7 @@ seo:
       value: Autre - Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Nos autres produits - Olive di Pietro
       keyName: property
     - name: 'og:image'
       value: images/plant8-lg.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Autre - Olive di Pietro
     - name: 'twitter:description'
-      value: This is the store page
+      value: Nos autres produits - Olive di Pietro
     - name: 'twitter:image'
       value: images/plant8-lg.jpg
       relativeUrl: true
