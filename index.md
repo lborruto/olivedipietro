@@ -39,7 +39,7 @@ sections:
       arrow: true
 seo:
   title: Olive di Pietro
-  description: The preview of the Planty theme
+  description: Boutique 
   extra:
     - name: 'og:type'
       value: website
