@@ -23,7 +23,7 @@ seo:
       value: 'Nduja piquante DOP, 100% naturelle - 950G'
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-5a030bab.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: 'Nduja piquante DOP, 100% naturelle - 950G'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-5a030bab.jpg
       relativeUrl: true
 ---
 
