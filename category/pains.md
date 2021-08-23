@@ -13,7 +13,7 @@ seo:
       value: Pains - Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Nos pains Calabrais - Olive di Pietro
       keyName: property
     - name: 'og:image'
       value: images/plant8-lg.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Pains - Olive di Pietro
     - name: 'twitter:description'
-      value: This is the store page
+      value: Nos pains Calabrais - Olive di Pietro
     - name: 'twitter:image'
       value: images/plant8-lg.jpg
       relativeUrl: true
