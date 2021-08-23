@@ -20,7 +20,7 @@ seo:
       value: Nduja piquante DOP, 100% naturelle - 950G
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Nduja piquante DOP, 100% naturelle - 950G'
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Nduja piquante DOP, 100% naturelle - 950G
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Nduja piquante DOP, 100% naturelle - 950G'
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
