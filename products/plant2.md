@@ -23,7 +23,7 @@ seo:
       value: 'Le véritable Pane Cotto di Calabria - 250g'
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/friselle-1280x920-a437b8e4.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: 'Le véritable Pane Cotto di Calabria - 250g'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/friselle-1280x920-a437b8e4.jpg
       relativeUrl: true
 ---
 
