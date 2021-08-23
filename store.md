@@ -23,22 +23,22 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Store
+      value: Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Boutique de produits Calabrais 100% naturels
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Store
+      value: Olive di Pietro
     - name: 'twitter:description'
-      value: This is the store page
+      value: Boutique de produits Calabrais 100% naturels
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
       relativeUrl: true
 ---
