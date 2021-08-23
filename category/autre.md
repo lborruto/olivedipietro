@@ -3,8 +3,8 @@ title: Autre
 layout: category
 order: 4
 seo:
-  title: Autre
-  description: Nos autres produits
+  title: Autre - Olive di Pietro
+  description: Nos autres produits - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
