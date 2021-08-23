@@ -16,7 +16,7 @@ seo:
       value: Nos autres produits - Olive di Pietro
       keyName: property
     - name: 'og:image'
-      value: images/plant8-lg.jpg
+      value: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-5a030bab.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:description'
       value: Nos autres produits - Olive di Pietro
     - name: 'twitter:image'
-      value: images/plant8-lg.jpg
+      value: images/tutti_i_Segreti_della_nduja_calabrese_di_spilinga-5a030bab.jpg
       relativeUrl: true
 ---
