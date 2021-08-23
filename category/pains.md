@@ -3,14 +3,14 @@ title: Pains
 layout: category
 order: 3
 seo:
-  title: Pains
-  description: Nos pains Calabrais
+  title: Pains - Olive di Pietro
+  description: Nos pains Calabrais - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Summer plants
+      value: Pains - Olive di Pietro
       keyName: property
     - name: 'og:description'
       value: This is the store page
