@@ -11,7 +11,7 @@ order: 1
 category: category/huiles.md
 seo:
   title: Huile d'Olive
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: 'Bouteille d''Huile d''Olive de Calabre'
   extra:
     - name: 'og:type'
       value: website
