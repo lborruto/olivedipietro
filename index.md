@@ -51,7 +51,7 @@ seo:
       value: Boutique de produits Calabrais 100% naturels
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/logo (1)-ca6530f5.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
