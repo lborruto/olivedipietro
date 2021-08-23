@@ -38,8 +38,8 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Olive di Pietro
-  description: Boutique de produits Calabrais 100% naturels
+  title: Boutique - Olive di Pietro
+  description: Boutique de produits Calabrais 100% naturels - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
