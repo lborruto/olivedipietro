@@ -59,14 +59,14 @@ sections:
       contact@olivedipietro.com">contact@olivedipietro.com</a>
     mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
-  title: Questions
+  title: Questions - Olive di Pietro
   description: Questions / Réponse - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: FAQ
+      value: FAQ - Olive di Pietro
       keyName: property
     - name: 'og:description'
       value: This is the faq page
