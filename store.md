@@ -17,7 +17,7 @@ sections:
       arrow: true
 seo:
   title: Nos Produits
-  description: This is the store page
+  description: Tous nos produits - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
