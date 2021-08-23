@@ -4,7 +4,7 @@ layout: category
 order: 2
 seo:
   title: Charcuteries
-  description: This is the store page
+  description: Les charcuteries Calabraise
   extra:
     - name: 'og:type'
       value: website
