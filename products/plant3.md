@@ -11,7 +11,7 @@ order: 1
 category: category/charcuteries.md
 seo:
   title: Capocollo de Calabre
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: 'Le véritable Capocollo DOP, 100% naturel'
   extra:
     - name: 'og:type'
       value: website
