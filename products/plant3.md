@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/charcuteries.md
 seo:
-  title: Capocollo de Calabre
+  title: Capocollo de Calabre - Olive di Pietro
   description: 'Le véritable Capocollo DOP, 100% naturel'
   extra:
     - name: 'og:type'
