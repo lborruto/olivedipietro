@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/pains.md
 seo:
-  title: Pane Duro
+  title: Pane Duro - Olive di Pietro
   description: 'Le véritable Pane Cotto di Calabria - 250g'
   extra:
     - name: 'og:type'
