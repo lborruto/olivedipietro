@@ -23,7 +23,7 @@ seo:
       value: 'Le véritable Capocollo DOP, 100% naturel'
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/edi-libedinsky-Wp3qbHlw1mI-unsplash-83a60b7c.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: 'Le véritable Capocollo DOP, 100% naturel'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/edi-libedinsky-Wp3qbHlw1mI-unsplash-83a60b7c.jpg
       relativeUrl: true
 ---
 
