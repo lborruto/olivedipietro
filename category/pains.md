@@ -16,7 +16,7 @@ seo:
       value: Nos pains Calabrais - Olive di Pietro
       keyName: property
     - name: 'og:image'
-      value: images/plant8-lg.jpg
+      value: images/friselle-1280x920-a437b8e4.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:description'
       value: Nos pains Calabrais - Olive di Pietro
     - name: 'twitter:image'
-      value: images/plant8-lg.jpg
+      value: images/friselle-1280x920-a437b8e4.jpg
       relativeUrl: true
 ---
