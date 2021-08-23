@@ -10,10 +10,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Big plants
+      value: Huiles - Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Nos huiles d'olives Calabraise - Olive di Pietro
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
@@ -22,9 +22,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Big plants
+      value: Huiles - Olive di Pietro
     - name: 'twitter:description'
-      value: This is the store page
+      value: Nos huiles d'olives Calabraise - Olive di Pietro
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
