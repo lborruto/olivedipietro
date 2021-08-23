@@ -48,7 +48,7 @@ seo:
       value: Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: Boutique de produits Calabrais 100% naturels
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
