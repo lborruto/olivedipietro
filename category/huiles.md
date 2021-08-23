@@ -4,7 +4,7 @@ layout: category
 order: 1
 seo:
   title: Huiles
-  description: This is the store page
+  description: Nos huiles d'olives Calabraise
   extra:
     - name: 'og:type'
       value: website
