@@ -4,7 +4,7 @@ layout: category
 order: 2
 seo:
   title: Charcuteries - Olive di Pietro
-  description: Les charcuteries Calabraise
+  description: Les charcuteries Calabraise - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
