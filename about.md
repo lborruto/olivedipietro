@@ -45,7 +45,7 @@ seo:
       value: Qui sommes-nous? - Olive di Pietro
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -55,6 +55,6 @@ seo:
     - name: 'twitter:description'
       value: Qui sommes-nous? - Olive di Pietro
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
       relativeUrl: true
 ---
