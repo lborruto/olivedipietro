@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/huiles.md
 seo:
-  title: Huile d'Olive de Calabre
+  title: Huile d'Olive de Calabre - Olive di Pietro
   description: 'Bouteille d''Huile d''Olive de Calabre, format 1L'
   extra:
     - name: 'og:type'
