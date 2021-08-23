@@ -60,7 +60,7 @@ sections:
     mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
   title: Questions
-  description: This is the faq page
+  description: Questions / Réponse - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
