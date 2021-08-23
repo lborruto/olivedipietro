@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/huiles.md
 seo:
-  title: Nulla suscipit
+  title: Huile d'Olive
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
