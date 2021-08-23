@@ -11,7 +11,7 @@ order: 1
 category: category/pains.md
 seo:
   title: Pane Duro
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: 'Le véritable Pane Cotto di Calabria - 250g'
   extra:
     - name: 'og:type'
       value: website
