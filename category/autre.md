@@ -4,7 +4,7 @@ layout: category
 order: 4
 seo:
   title: Autre
-  description: This is the store page
+  description: Nos autres produits
   extra:
     - name: 'og:type'
       value: website
