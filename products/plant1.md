@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: 'Bouteille d''Huile d''Olive de Calabre, format 1L'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/images/roberta-sorge-uOBApnN_K7w-unsplash (1)-35a384d6.jpg
       relativeUrl: true
 ---
 
