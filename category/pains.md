@@ -4,7 +4,7 @@ layout: category
 order: 3
 seo:
   title: Pains
-  description: This is the store page
+  description: Nos pains Calabrais
   extra:
     - name: 'og:type'
       value: website
