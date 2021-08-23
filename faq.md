@@ -59,7 +59,7 @@ sections:
       contact@olivedipietro.com">contact@olivedipietro.com</a>
     mapUrl: 'https://goo.gl/maps/AHnLtbNFsaNfwztNA'
 seo:
-  title: FAQ
+  title: Questions
   description: This is the faq page
   extra:
     - name: 'og:type'
