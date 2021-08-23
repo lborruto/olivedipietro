@@ -18,7 +18,7 @@ sections:
 seo:
   title: Nos Produits
   description: Tous nos produits - Olive di Pietro
-extra:
+  extra:
     - name: 'og:type'
       value: website
       keyName: property
