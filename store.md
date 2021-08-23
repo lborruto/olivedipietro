@@ -16,7 +16,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Nos Produits
+  title: Nos Produits - Olive di Pietro
   description: Tous nos produits - Olive di Pietro
   extra:
     - name: 'og:type'
