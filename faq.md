@@ -69,12 +69,12 @@ seo:
       value: FAQ - Olive di Pietro
       keyName: property
     - name: 'og:description'
-      value: This is the faq page
+      value: FAQ - Olive di Pietro
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: FAQ
     - name: 'twitter:description'
-      value: This is the faq page
+      value: FAQ - Olive di Pietro
 ---
