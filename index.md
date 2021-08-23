@@ -45,7 +45,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Olive di Pietro
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
