@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: Nduja piquante DOP, 100% naturelle - 950G
       keyName: property
     - name: 'og:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Nulla suscipit
+      value: Nduja piquante DOP, 100% naturelle - 950G
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
