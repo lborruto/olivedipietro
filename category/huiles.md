@@ -3,8 +3,8 @@ title: Huiles
 layout: category
 order: 1
 seo:
-  title: Huiles
-  description: Nos huiles d'olives Calabraise
+  title: Huiles - Olive di Pietro
+  description: Nos huiles d'olives Calabraise - Olive di Pietro
   extra:
     - name: 'og:type'
       value: website
