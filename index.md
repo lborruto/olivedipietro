@@ -61,6 +61,6 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: images/nadine-marfurt-DyEdTr9eqPo-unsplash.jpg
       relativeUrl: true
 ---
