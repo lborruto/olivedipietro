@@ -2,6 +2,7 @@
 layout: product
 id: '1'
 price: '29.99'
+weight: '250'
 title: Huile d'Olive de Calabre
 description: 'Bouteille d''Huile d''Olive de Calabre, format 1L'
 default_thumbnail_image: images/roberta-sorge-uOBApnN_K7w-unsplash (1).jpg
