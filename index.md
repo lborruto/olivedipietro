@@ -39,7 +39,7 @@ sections:
       arrow: true
 seo:
   title: Olive di Pietro - Boutique
-  description: Les Olives de Pierre - Boutique de produits Calabrais 100% naturels
+  description: Les Olives de Pierre - Boutique de produits Calabrais 100% naturels AOP
   extra:
     - name: 'og:type'
       value: website
