@@ -3,8 +3,6 @@ baseurl: /
 permalink: '/:title/'
 plugins:
   - jekyll-menus
-  - jekyll-sitemap
-url: "https://olivedipietro.com"
 collections:
   posts:
     permalink: '/posts/:title/'
