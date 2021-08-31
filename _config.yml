@@ -4,6 +4,7 @@ permalink: '/:title/'
 plugins:
   - jekyll-menus
   - jekyll-sitemap
+url: "https://example.com"
 collections:
   posts:
     permalink: '/posts/:title/'
