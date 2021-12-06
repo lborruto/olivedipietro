@@ -25,6 +25,9 @@ seo:
     - name: 'og:title'
       value: Olive di Pietro
       keyName: property
+    - name: 'og:title'
+      value: Les Olives de Pierre
+      keyName: property   
     - name: 'og:description'
       value: Boutique de produits Calabrais 100% naturels
       keyName: property
