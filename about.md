@@ -41,6 +41,9 @@ seo:
     - name: 'og:title'
       value: A Propos - Olive di Pietro
       keyName: property
+    - name: 'og:title'
+      value: Les Olives de Pierre
+      keyName: property   
     - name: 'og:description'
       value: Qui sommes-nous? - Olive di Pietro
       keyName: property
