@@ -68,6 +68,9 @@ seo:
     - name: 'og:title'
       value: FAQ - Olive di Pietro
       keyName: property
+    - name: 'og:title'
+      value: Les Olives de Pierre
+      keyName: property   
     - name: 'og:description'
       value: FAQ - Olive di Pietro
       keyName: property
